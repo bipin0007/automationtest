@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ae631f9-5117-4153-8002-21a911cc1962" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/ConditionalStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/EvenNumbersUsingALoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/JavaOpeartorsExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/MethodExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/NumbersInReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/NotesOnRegex.java" afterDir="false" />
-    </list>
+    <list default="true" id="9ae631f9-5117-4153-8002-21a911cc1962" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
